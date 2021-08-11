@@ -1,4 +1,5 @@
 package trabajos.grupales;
+import java.util.Arrays;
 import java.util.Scanner; 
 public class VectorOrdenado { 
 
@@ -63,13 +64,20 @@ public class VectorOrdenado {
 			int N = teclado.nextInt();
 			datos[i] = N;
 		}
-
+		System.out.println(" ");
+		System.out.println("Vector Original: " + Arrays.toString(datos));
 		ob.sort(datos, 0, datos.length - 1);
 		System.out.println(" ");
-		System.out.println("EL ORDEN ES: ");
+		System.out.println("VECTOR ORDENADO POR MERGE-SORT: ");
 		for (int i = 0; i < datos.length; i++) {
-			System.out.println(datos[i] + "");
+			System.out.print(datos[i] + " ");
 		}
+		System.out.println(" ");
+		System.out.println(" ");
+		System.out.println("ORDENAMIENTO DE JAVA");
+		Arrays.sort(datos);
+		System.out.println("Vector Ordenado: " + Arrays.toString(datos));
+		
 	}
 
 }
