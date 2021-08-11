@@ -4,7 +4,7 @@ public class MainMatriz2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+ 
 //Lo mismo pero ingresado por teclado
 		Scanner teclado = new Scanner(System.in);
 		System.out.print("Ingrese el numero de filas: ");

@@ -1,6 +1,6 @@
 package ejercicios.vectores;
 
-public class MainTareaVectores {
+public class MainTareaVectores { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

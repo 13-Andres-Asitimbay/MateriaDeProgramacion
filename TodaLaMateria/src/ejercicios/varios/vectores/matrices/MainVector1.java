@@ -2,7 +2,7 @@ package ejercicios.varios.vectores.matrices;
 import java.util.Scanner;
 public class MainVector1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 
 /*1. Declare un vector X[3] de tipo char y construya un programa que pida al usuario que ingrese

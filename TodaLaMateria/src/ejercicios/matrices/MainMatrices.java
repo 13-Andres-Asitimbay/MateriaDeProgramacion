@@ -4,7 +4,7 @@ public class MainMatrices {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+ 
 //1. Declarar una matriz A de tipo char con 5 filas y 4 columnas
 		char A[][] = new char[5][4];
 				

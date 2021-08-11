@@ -25,7 +25,7 @@ public class MainPrueba2 {
 				PI = SI/CI;
 				
 			}
-		}
+		} 
 		System.out.println(" ");
 		System.out.println("La suma de números pares es: " + SP);
 		System.out.println("El promedio de números impares es: " + PI);

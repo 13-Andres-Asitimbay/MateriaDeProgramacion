@@ -2,7 +2,7 @@ package ejercicios.varios.vectores.matrices;
 
 public class MainMatriz3 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 //Desarrollar un programa que imprima la siguiente imagen:
 		int A[][] = new int[5][5];

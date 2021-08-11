@@ -8,7 +8,7 @@ public class MainPrueba1 {
 		float P = 0;
 		int i = 0;
 		int C = 0;
-		
+		 
 		for (i = 1 ; i != 0 ; i++) {
 			System.out.print("Ingrese un número positivo: ");
 			Scanner teclado = new Scanner(System.in);

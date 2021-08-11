@@ -2,7 +2,7 @@ package ejercicios.varios.vectores.matrices;
 import java.util.Scanner;
 public class MainVector2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 
 /*Declare un vector X cuya longitud se solicite al usuario de tipo int, y finalmente se

@@ -9,7 +9,7 @@ public class Main2 {
 		float PI = 0.0f;
 		int CI = 0;
 		int N;
-
+ 
 		do {
 			System.out.print("Ingrese un número positivo: ");
 			Scanner teclado = new Scanner(System.in);

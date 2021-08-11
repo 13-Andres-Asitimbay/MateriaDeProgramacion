@@ -4,7 +4,7 @@ public class MainMatriz1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+	 	
 /*Declare una matriz A [3 , 4], desarrolle un programa que vaya solicitando cada una de sus posiciones.*/
 		char A[][] = new char[3][4];
 		for(int fila = 0 ; fila < 3 ; fila++) {

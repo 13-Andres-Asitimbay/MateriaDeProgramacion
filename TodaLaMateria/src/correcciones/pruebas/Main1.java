@@ -10,7 +10,7 @@ public class Main1 {
 		System.out.print("Ingrese un número positivo: ");
 		Scanner teclado = new Scanner(System.in);
 		int N = teclado.nextInt();
-		
+	 	
 		while(N != 0){
 			S = S + N;
 			C = C + 1;
