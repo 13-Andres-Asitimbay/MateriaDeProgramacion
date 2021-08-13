@@ -4,6 +4,7 @@ public class MainFactura {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//Clase main de mi compañero
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("SELECCIONE PODUCTOS ");
 		System.out.println("1---> Pan");

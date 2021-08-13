@@ -2,6 +2,8 @@ package trabajos.grupales;
 
 public class Productos {
 	
+//Clase que recibe datos de mi compañero 	
+	
 	public void seleccion(int producto) {
 
 		if (producto == 1) {

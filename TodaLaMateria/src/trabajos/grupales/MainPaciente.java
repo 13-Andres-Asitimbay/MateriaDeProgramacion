@@ -4,6 +4,7 @@ public class MainPaciente{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//Mi clase main
 		Scanner teclado = new Scanner(System.in);
 		System.out.print("Ingrese turno: ");
 		int Z = teclado.nextInt();
