@@ -2,7 +2,7 @@ package trabajos.grupales;
 
 public class Sistema {
 	
-//Mi clase que recibe datos
+//Mi clase que recibe datos ingresados
 	public void tomarTurnos(String nombre, String apellido, String cedula, String telefono, int turno) {
 		System.out.println("Ha seleccionado el turno: " + turno);
 		if(turno == 1) {
