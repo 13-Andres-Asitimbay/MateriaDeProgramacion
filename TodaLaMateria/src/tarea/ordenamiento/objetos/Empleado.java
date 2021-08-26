@@ -2,6 +2,7 @@ package tarea.ordenamiento.objetos;
 
 public class Empleado implements Comparable<Empleado> {
 
+	//Prueba de nombre y correo
 	private String nombre;
 	private String apellido;
 	private int edad;
