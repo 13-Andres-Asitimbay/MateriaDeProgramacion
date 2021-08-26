@@ -6,6 +6,7 @@ public class MainEmpresaGPF {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//asacoco
 		Empleado empleado1 = new Empleado();
 		empleado1.setNombre("Andres");
 		empleado1.setApellido("Asitimbay");
