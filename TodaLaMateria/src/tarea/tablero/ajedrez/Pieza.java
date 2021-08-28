@@ -1,6 +1,6 @@
 package tarea.tablero.ajedrez;
 
-public class Pieza {
+public abstract class Pieza {
 	
 	protected String color;;
 
