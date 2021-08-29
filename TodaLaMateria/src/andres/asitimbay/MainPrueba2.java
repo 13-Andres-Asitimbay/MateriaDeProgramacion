@@ -4,7 +4,7 @@ public class MainPrueba2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//Correccion Leccion 1
+//Correccion Leccion1
 		int SP = 0;
 		float PI = 0;
 		int CI = 0;
