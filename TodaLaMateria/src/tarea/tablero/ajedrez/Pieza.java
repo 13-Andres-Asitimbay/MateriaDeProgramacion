@@ -2,7 +2,7 @@ package tarea.tablero.ajedrez;
 
 public abstract class Pieza {
 	
-	protected String color;;
+	protected String color;
 
 	public String getColor() {
 		return color;
