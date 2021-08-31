@@ -9,6 +9,8 @@ public class MainReservaViajes {
 		juan.setApellido("Estratosferico");
 		juan.setCodigoSeguroSocial("123456789");
 		juan.setEmpresaDeTrabajo("Hololive");
+		juan.getNombre();
+		juan.getApellido();
 		
 		Adulto carlos = new Adulto();
 		carlos.setNombre("Carlos");
@@ -113,7 +115,7 @@ public class MainReservaViajes {
 		Adolescente korone = new Adolescente();
 		korone.setNombre("Korone");
 		korone.setApellido("Dog");
-		korone.setDeporte("Soccer");
+		//korone.setDeporte("Soccer");
 		
 		
 		Persona bus[][] = new Persona[4][5];

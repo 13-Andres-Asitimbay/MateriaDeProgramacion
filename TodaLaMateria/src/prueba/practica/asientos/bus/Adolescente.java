@@ -14,7 +14,7 @@ public class Adolescente extends Persona{
 
 	@Override
 	public String toString() {
-		return "Adolescente [deporte=" + deporte + "]";
+		return "Adolescente [nombre:" + nombre + ", Apellido: " + apellido + ", deporte=" + deporte + "]";
 	}
-	
+
 }

@@ -23,7 +23,7 @@ public class Adulto extends Persona{
 
 	@Override
 	public String toString() {
-		return "Adulto [codigoSeguroSocial=" + codigoSeguroSocial + ", empresaDeTrabajo=" + empresaDeTrabajo + "]";
+		return "Adulto [nombre:" + nombre + ", Apellido: " + apellido + ", codigoSeguroSocial=" + codigoSeguroSocial + ", empresaDeTrabajo=" + empresaDeTrabajo + "]";
 	}
 
 }
