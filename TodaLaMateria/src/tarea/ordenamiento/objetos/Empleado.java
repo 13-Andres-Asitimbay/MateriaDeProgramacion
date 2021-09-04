@@ -40,7 +40,7 @@ public class Empleado implements Comparable<Empleado> {
 		this.salario = salario;
 	}
 
-	@Override
+
 	public int compareTo(Empleado o) {
 		// TODO Auto-generated method stub
 		if (this.salario < o.getSalario()) {
@@ -56,7 +56,7 @@ public class Empleado implements Comparable<Empleado> {
 
 	}
 
-	@Override
+	
 	public String toString() {
 		return "Empleado [Nombre = " + nombre + ", Apellido = " + apellido + ", Edad = " + edad + ", Salario = $" + salario
 				+ "]";

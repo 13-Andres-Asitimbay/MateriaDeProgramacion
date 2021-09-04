@@ -39,7 +39,7 @@ public class Estudiante implements Comparable<Estudiante> {
 		this.edad = edad;
 	}
 
-	@Override
+	
 	public int compareTo(Estudiante o) {
 		// TODO Auto-generated method stub
 		// Este metodo tiene 3 posibles retornos: 0 , -1 , 1
@@ -57,7 +57,7 @@ public class Estudiante implements Comparable<Estudiante> {
 
 	}
 
-	@Override
+	
 	public String toString() {
 		return "Estudiante [nombre=" + nombre + ", apellido=" + apellido + ", numeroLista=" + numeroLista + ", edad=" + edad + "]";
 	}

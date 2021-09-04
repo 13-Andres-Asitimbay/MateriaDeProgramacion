@@ -12,7 +12,6 @@ public class Adolescente extends Persona{
 		this.deporte = deporte;
 	}
 
-	@Override
 	public String toString() {
 		return "Adolescente [nombre:" + nombre + ", Apellido: " + apellido + ", deporte=" + deporte + "]";
 	}

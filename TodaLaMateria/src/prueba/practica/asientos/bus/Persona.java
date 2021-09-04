@@ -21,7 +21,7 @@ public abstract class Persona {
 		this.apellido = apellido;
 	}
 
-	@Override
+	
 	public String toString() {
 		return "Persona [nombre=" + nombre + ", apellido=" + apellido + "]";
 	}

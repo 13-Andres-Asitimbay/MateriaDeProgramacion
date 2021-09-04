@@ -21,7 +21,7 @@ public class Adulto extends Persona{
 		this.empresaDeTrabajo = empresaDeTrabajo;
 	}
 
-	@Override
+	
 	public String toString() {
 		return "Adulto [nombre:" + nombre + ", Apellido: " + apellido + ", codigoSeguroSocial=" + codigoSeguroSocial + ", empresaDeTrabajo=" + empresaDeTrabajo + "]";
 	}
